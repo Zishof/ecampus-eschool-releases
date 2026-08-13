@@ -1,0 +1,7 @@
+# Binary packages are uploaded as GitHub Release assets, not Git history.
+*.apk
+*.aab
+*.exe
+*.msi
+*.zip
+*.sha256
