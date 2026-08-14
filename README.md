@@ -1,10 +1,10 @@
-# eCAMPUS dan eSCHOOL
+# eCAMPUS, eSCHOOL, dan ePESANTREN
 
 ## Aplikasi layanan pendidikan dalam genggaman
 
-eCAMPUS dan eSCHOOL adalah aplikasi layanan pendidikan yang membantu warga kampus dan sekolah menjalankan kegiatan sehari-hari melalui perangkat yang paling nyaman bagi mereka. Aplikasi tersedia untuk komputer Windows dan perangkat Android. Keduanya dirancang sebagai pintu masuk yang ringkas menuju informasi, layanan, dan pekerjaan yang sesuai dengan peran setiap pengguna.
+eCAMPUS, eSCHOOL, dan ePESANTREN adalah keluarga aplikasi layanan pendidikan yang membantu perguruan tinggi, sekolah, madrasah, dan pondok pesantren menjalankan kegiatan sehari-hari melalui perangkat yang paling nyaman bagi penggunanya. Aplikasi dirancang untuk komputer Windows dan perangkat Android sebagai pintu masuk yang ringkas menuju informasi, layanan, dan pekerjaan yang sesuai dengan peran setiap orang.
 
-eCAMPUS ditujukan bagi lingkungan perguruan tinggi, seperti universitas, institut, sekolah tinggi, akademi, politeknik, dan yayasan penyelenggara pendidikan tinggi. eSCHOOL ditujukan bagi sekolah, madrasah, lembaga pendidikan dasar dan menengah, serta yayasan yang menaunginya. Walaupun kebutuhan masing-masing lembaga berbeda, tujuan utamanya sama: membantu pengguna memperoleh layanan pendidikan secara lebih mudah, tertib, cepat, dan jelas.
+eCAMPUS ditujukan bagi lingkungan perguruan tinggi, seperti universitas, institut, sekolah tinggi, akademi, politeknik, dan yayasan penyelenggara pendidikan tinggi. eSCHOOL ditujukan bagi sekolah, madrasah, lembaga pendidikan dasar dan menengah, serta yayasan yang menaunginya. ePESANTREN ditujukan bagi pondok pesantren dan unit-unit yang berada di dalamnya, termasuk pendidikan formal, madrasah diniyah, tahfiz, asrama, koperasi, kantin, serta layanan bagi santri dan wali santri. Walaupun kebutuhan setiap lembaga berbeda, ketiganya mempunyai tujuan yang sama: membantu pengguna memperoleh layanan pendidikan secara lebih mudah, tertib, cepat, dan jelas.
 
 Aplikasi ini bukan pengganti peran manusia dalam pendidikan. Dosen, guru, tenaga kependidikan, pimpinan, mahasiswa, siswa, dan orang tua tetap menjadi pusat kegiatan pendidikan. Aplikasi berfungsi sebagai sarana pendukung agar informasi penting tidak tercecer, layanan tidak selalu bergantung pada kedatangan ke kantor, pekerjaan yang sama tidak perlu dilakukan berulang kali, dan setiap pihak dapat melihat informasi yang memang menjadi haknya.
 
@@ -16,11 +16,11 @@ Kegiatan pendidikan melibatkan banyak informasi yang saling berkaitan. Mahasiswa
 
 Apabila informasi tersebut tersebar di banyak tempat, pengguna mudah mengalami kebingungan. Jadwal dapat berbeda antara pengumuman satu dan lainnya. Berkas pengajuan dapat sulit dilacak. Pertanyaan yang sama harus dijawab berulang kali oleh petugas. Mahasiswa, siswa, atau orang tua mungkin harus datang hanya untuk memastikan suatu informasi. Pada saat yang sama, petugas menghabiskan banyak waktu untuk mencari data dan menyusun ulang laporan.
 
-eCAMPUS dan eSCHOOL membantu mengurangi persoalan tersebut dengan menghadirkan satu pintu layanan. Setelah masuk menggunakan akun lembaga, pengguna memperoleh menu sesuai perannya. Mahasiswa tidak perlu melihat seluruh menu milik pengelola kampus. Siswa tidak dibebani pilihan yang hanya diperlukan bendahara atau pimpinan. Dosen dan guru memperoleh layanan yang berhubungan dengan tugasnya. Pemisahan seperti ini membuat tampilan lebih mudah dipahami sekaligus membantu menjaga ketertiban penggunaan informasi.
+eCAMPUS, eSCHOOL, dan ePESANTREN membantu mengurangi persoalan tersebut dengan menghadirkan satu pintu layanan. Setelah masuk menggunakan akun lembaga, pengguna memperoleh menu sesuai perannya. Mahasiswa tidak perlu melihat seluruh menu milik pengelola kampus. Siswa dan santri tidak dibebani pilihan yang hanya diperlukan bendahara, pengurus, atau pimpinan. Dosen, guru, ustaz, musyrif, dan tenaga pelayanan memperoleh layanan yang berhubungan dengan tanggung jawabnya. Pemisahan seperti ini membuat tampilan lebih mudah dipahami sekaligus membantu menjaga ketertiban penggunaan informasi.
 
 Ketersediaan versi Android dan Windows juga memberi kebebasan kepada pengguna. Ponsel cocok untuk melihat informasi dan menyelesaikan kebutuhan ketika sedang bergerak. Komputer cocok untuk pekerjaan yang memerlukan layar lebih luas, penelaahan data yang lebih nyaman, atau penggunaan dalam waktu lebih lama. Pengguna dapat memilih perangkat sesuai keadaan tanpa harus mempelajari cara kerja yang benar-benar berbeda.
 
-## Tujuan utama eCAMPUS dan eSCHOOL
+## Tujuan utama eCAMPUS, eSCHOOL, dan ePESANTREN
 
 Tujuan pertama aplikasi adalah mendekatkan layanan pendidikan kepada penggunanya. Mahasiswa, siswa, dosen, guru, orang tua, dan tenaga kependidikan seharusnya dapat memperoleh informasi yang diperlukan tanpa melalui perjalanan yang panjang. Ketika layanan tersedia dalam aplikasi, banyak kebutuhan dapat diselesaikan dari rumah, ruang kelas, ruang dosen, kantor, atau lokasi lain yang memiliki sambungan internet.
 
@@ -74,9 +74,33 @@ Wali kelas memperoleh gambaran yang lebih menyeluruh mengenai siswa di kelasnya.
 
 Tenaga administrasi sekolah dapat memberikan pelayanan secara lebih tertib. Data pendaftaran, surat, pembayaran, dan kebutuhan siswa dapat dikelola melalui alur yang jelas sesuai kebijakan lembaga. Ketika sebagian informasi dapat dilihat sendiri oleh siswa atau orang tua, petugas mempunyai lebih banyak waktu untuk menangani kebutuhan yang tidak dapat diselesaikan secara mandiri.
 
+## Manfaat ePESANTREN bagi santri dan wali santri
+
+ePESANTREN dirancang untuk mendukung kehidupan pendidikan dan pengasuhan di pondok pesantren tanpa menghilangkan nilai, budaya, dan tata tertib yang menjadi ciri khas setiap pondok. Aplikasi membantu santri, wali santri, pengasuh, pengurus, ustaz, musyrif, bendahara, petugas gerbang, serta pengelola unit pendidikan bekerja menggunakan informasi yang sama dan lebih tertata.
+
+Bagi santri, ePESANTREN dapat menjadi tempat untuk melihat informasi pembelajaran, kegiatan diniyah, tahfiz, halaqah, jadwal, kehadiran, perizinan, pengumuman, nilai, dan kegiatan pondok sesuai layanan yang diaktifkan. Santri memperoleh gambaran yang lebih jelas mengenai kewajiban dan perkembangannya, sementara pembinaan tetap dilakukan secara langsung oleh pengasuh, ustaz, guru, dan musyrif.
+
+Bagi wali santri, aplikasi membantu menjaga keterhubungan dengan kehidupan anak di pondok. Informasi mengenai pembayaran, perizinan, kunjungan, paket, penjemputan, kehadiran, perkembangan belajar, atau pengumuman dapat disediakan sesuai kebijakan pesantren. Keterhubungan tersebut memberikan ketenangan kepada keluarga sekaligus mengurangi kebutuhan untuk menanyakan informasi yang sama melalui banyak saluran pribadi.
+
+ePESANTREN juga dapat membantu pengelolaan uang saku dan transaksi nontunai apabila pondok menggunakan layanan tersebut. Wali dapat memperoleh informasi yang lebih tertib, sedangkan pengelola kantin atau koperasi mempunyai catatan transaksi yang lebih mudah dipertanggungjawabkan. Penggunaan layanan keuangan selalu mengikuti ketentuan dan kesiapan masing-masing pondok.
+
+Dalam urusan perizinan keluar-masuk, aplikasi membantu membangun alur yang jelas antara santri, pengurus asrama, petugas gerbang, dan wali. Tujuannya bukan sekadar mencatat, melainkan membantu pondok menjaga keselamatan, kedisiplinan, dan kepastian informasi. Keputusan izin tetap berada pada pihak yang berwenang sesuai tata tertib pesantren.
+
+## Manfaat ePESANTREN bagi pengasuh dan pengelola pondok
+
+Bagi pengasuh dan pimpinan, ePESANTREN membantu menghadirkan gambaran yang lebih menyeluruh mengenai kegiatan pendidikan, asrama, pengasuhan, keuangan, dan layanan santri. Informasi yang tersusun rapi dapat membantu mengenali kebutuhan pembinaan, memastikan pelayanan berjalan, dan menentukan prioritas pengembangan pondok.
+
+Ustaz, guru, dan pengelola pendidikan dapat menggunakan layanan yang berkaitan dengan kelas, mata pelajaran, diniyah, tahfiz, mutabaah, kehadiran, penilaian, dan pendampingan santri. Data kegiatan tidak harus disusun kembali dari awal untuk setiap kebutuhan. Dengan demikian, tenaga pendidik dapat lebih memusatkan perhatian pada pembelajaran, pembentukan adab, dan perkembangan santri.
+
+Musyrif serta pengurus asrama dapat memperoleh sarana untuk mencatat keadaan kamar, kegiatan harian, perizinan, pembinaan, pelanggaran, penghargaan, dan kebutuhan santri. Catatan tersebut membantu proses serah terima antarpetugas dan mengurangi risiko informasi penting hanya tersimpan dalam ingatan atau percakapan pribadi.
+
+Bendahara dan pengelola unit usaha dapat memperoleh dukungan untuk menata tagihan, pembayaran, uang saku, koperasi, kantin, dapur, atau kebutuhan logistik sesuai modul yang digunakan. Ketertiban ini membantu pondok menjaga kepercayaan wali santri dan menyusun pertanggungjawaban yang lebih jelas.
+
+Untuk pesantren yang memiliki sekolah, madrasah, diniyah, tahfiz, balai latihan kerja, atau unit lain, ePESANTREN membantu menghubungkan layanan tanpa menghapus kekhasan setiap unit. Yayasan dan pimpinan dapat melihat gambaran bersama, sementara masing-masing unit tetap bekerja sesuai tanggung jawabnya.
+
 ## Manfaat bagi orang tua dan wali
 
-Keterlibatan keluarga merupakan bagian penting dalam keberhasilan pendidikan. eCAMPUS dan eSCHOOL dapat menyediakan akses bagi orang tua atau wali apabila lembaga mengaktifkannya. Informasi yang tampil dibatasi pada hal yang menjadi hak pengguna dan mengikuti kebijakan lembaga.
+Keterlibatan keluarga merupakan bagian penting dalam keberhasilan pendidikan. eCAMPUS, eSCHOOL, dan ePESANTREN dapat menyediakan akses bagi orang tua, wali, atau wali santri apabila lembaga mengaktifkannya. Informasi yang tampil dibatasi pada hal yang menjadi hak pengguna dan mengikuti kebijakan lembaga.
 
 Orang tua dapat memperoleh gambaran mengenai kehadiran, hasil belajar, tagihan, pengumuman, atau perkembangan lain yang disediakan. Akses ini membantu keluarga memberikan dukungan tepat waktu. Misalnya, perubahan kehadiran dapat dibicarakan lebih awal, kewajiban administrasi dapat direncanakan, dan informasi kegiatan tidak mudah terlewat.
 
@@ -86,7 +110,7 @@ Bagi orang tua yang tinggal jauh atau memiliki kesibukan tinggi, akses melalui A
 
 ## Manfaat bagi pimpinan dan yayasan
 
-Pimpinan dan yayasan memerlukan informasi untuk memastikan lembaga berjalan sesuai tujuan. eCAMPUS dan eSCHOOL membantu menghimpun gambaran dari kegiatan yang dikelola melalui sistem. Informasi dapat digunakan untuk memantau pelayanan, mengenali kebutuhan perbaikan, dan mengevaluasi program.
+Pimpinan dan yayasan memerlukan informasi untuk memastikan lembaga berjalan sesuai tujuan. eCAMPUS, eSCHOOL, dan ePESANTREN membantu menghimpun gambaran dari kegiatan yang dikelola melalui sistem. Informasi dapat digunakan untuk memantau pelayanan, mengenali kebutuhan perbaikan, dan mengevaluasi program.
 
 Keteraturan data juga membantu lembaga menjaga tanggung jawab dan keterbukaan. Riwayat kegiatan lebih mudah ditelusuri, laporan lebih mudah disiapkan, dan pembagian tugas menjadi lebih jelas. Hal ini mendukung tata kelola yang tertib tanpa menghilangkan pertimbangan manusia dalam setiap keputusan.
 
@@ -116,9 +140,9 @@ Lembaga bertanggung jawab menentukan hak akses dan ketentuan layanan. Aplikasi m
 
 ## Cara memulai penggunaan
 
-Pertama, pastikan lembaga Anda telah menggunakan eCAMPUS atau eSCHOOL dan telah memberikan petunjuk aktivasi. Pengguna baru biasanya memerlukan kode pemasangan atau informasi lain dari lembaga. Jangan memakai kode milik lembaga lain karena setiap pemasangan mengarah pada lingkungan layanan yang berbeda.
+Pertama, pastikan lembaga Anda telah menggunakan eCAMPUS, eSCHOOL, atau ePESANTREN dan telah memberikan petunjuk aktivasi. Pengguna baru biasanya memerlukan kode pemasangan atau informasi lain dari lembaga. Jangan memakai kode milik lembaga lain karena setiap pemasangan mengarah pada lingkungan layanan yang berbeda.
 
-Kedua, unduh paket sesuai perangkat. Pengguna Windows memilih installer eCAMPUS atau eSCHOOL. Pengguna Android memilih APK dengan nama produk yang sesuai. Perhatikan label paket. Paket yang mencantumkan UAT atau prarilis ditujukan untuk pengujian, bukan untuk pemakaian produksi tanpa persetujuan lembaga.
+Kedua, unduh paket sesuai perangkat dan nama produk lembaga. Pengguna Windows memilih installer eCAMPUS, eSCHOOL, atau ePESANTREN apabila paketnya telah tersedia. Pengguna Android memilih APK dengan nama produk yang sama. Perhatikan label paket. Paket yang mencantumkan UAT atau prarilis ditujukan untuk pengujian, bukan untuk pemakaian produksi tanpa persetujuan lembaga.
 
 Ketiga, pasang aplikasi dengan mengikuti petunjuk perangkat. Windows dapat menampilkan peringatan apabila installer belum memiliki tanda pengenal penerbit komersial. Pastikan berkas benar-benar diunduh dari repositori ini dan cocokkan nilai pemeriksaan berkas yang dicantumkan pada catatan rilis. Android mungkin meminta izin pemasangan dari sumber yang dipilih pengguna; aktifkan izin hanya untuk proses pemasangan paket resmi, lalu kembalikan pengaturan keamanan sesuai kebutuhan.
 
@@ -132,10 +156,14 @@ Semua paket publik tersedia pada [halaman Releases](../../releases/latest). Pili
 
 - `eCampus-Setup-*.exe` untuk eCAMPUS pada komputer Windows 64-bit.
 - `eSchool-Setup-*.exe` untuk eSCHOOL pada komputer Windows 64-bit.
+- `ePesantren-Setup-*.exe` untuk ePESANTREN pada komputer Windows 64-bit apabila tersedia.
 - `eCampus-Android-*.apk` untuk eCAMPUS pada perangkat Android.
 - `eSchool-Android-*.apk` untuk eSCHOOL pada perangkat Android.
+- `ePesantren-Android-*.apk` untuk ePESANTREN pada perangkat Android apabila tersedia.
 
-Jangan mengganti nama produk hanya karena tampilannya serupa. eCAMPUS dan eSCHOOL ditujukan untuk lingkungan pendidikan yang berbeda. Gunakan paket yang ditetapkan oleh lembaga Anda.
+Jangan mengganti nama produk hanya karena tampilannya serupa. eCAMPUS, eSCHOOL, dan ePESANTREN ditujukan untuk lingkungan pendidikan dan tata layanan yang berbeda. Gunakan paket yang ditetapkan oleh lembaga Anda.
+
+Pencantuman pola nama ePESANTREN di atas menjelaskan penamaan yang akan digunakan ketika paketnya diterbitkan. Apabila berkas tersebut belum terlihat pada halaman Releases, berarti paket publiknya belum tersedia dan pengguna tidak disarankan mengunduh berkas bernama serupa dari sumber lain.
 
 Setiap rilis memiliki catatan yang menjelaskan status paket. Label **UAT**, **uji**, atau **prarilis** berarti paket disediakan untuk pemeriksaan bersama. Paket tersebut dapat memuat fungsi yang masih menunggu pengesahan pengguna, penyebaran layanan pendukung, atau penyempurnaan. Paket produksi hanya akan dinyatakan sebagai produksi melalui catatan rilis yang jelas.
 
@@ -151,7 +179,7 @@ Pengguna yang memasang paket UAT dipersilakan memberikan masukan melalui pengelo
 
 ## Batasan dan perbedaan layanan antar lembaga
 
-eCAMPUS dan eSCHOOL dapat digunakan oleh lembaga dengan kebutuhan yang beragam. Akibatnya, kelengkapan menu, istilah, alur persetujuan, kalender, jenis pembayaran, dan dokumen dapat berbeda. README ini menjelaskan manfaat umum dan tidak menggantikan peraturan kampus atau sekolah.
+eCAMPUS, eSCHOOL, dan ePESANTREN dapat digunakan oleh lembaga dengan kebutuhan yang beragam. Akibatnya, kelengkapan menu, istilah, alur persetujuan, kalender, jenis pembayaran, dan dokumen dapat berbeda. README ini menjelaskan manfaat umum dan tidak menggantikan peraturan kampus, sekolah, madrasah, atau pondok pesantren.
 
 Beberapa layanan hanya terbuka pada periode tertentu. Pengisian rencana studi, pendaftaran kegiatan, pengajuan wisuda, penerimaan siswa, atau pengisian nilai dapat ditutup setelah batas waktu. Aplikasi akan mengikuti jadwal yang ditetapkan lembaga. Hubungi unit terkait apabila Anda merasa seharusnya memperoleh akses.
 
@@ -161,7 +189,7 @@ Tidak semua informasi dapat diubah sendiri oleh pengguna. Data identitas, status
 
 ## Pembaruan aplikasi
 
-Pengembangan eCAMPUS dan eSCHOOL dilakukan secara bertahap. Pembaruan dapat berisi penyempurnaan tampilan, perbaikan kendala, penyesuaian aturan lembaga, atau penambahan layanan. Baca catatan rilis sebelum memasang versi baru agar mengetahui perubahan yang relevan.
+Pengembangan eCAMPUS, eSCHOOL, dan ePESANTREN dilakukan secara bertahap. Pembaruan dapat berisi penyempurnaan tampilan, perbaikan kendala, penyesuaian aturan lembaga, atau penambahan layanan. Baca catatan rilis sebelum memasang versi baru agar mengetahui perubahan yang relevan.
 
 Gunakan versi yang direkomendasikan oleh lembaga. Versi aplikasi dan kesiapan layanan pada server perlu berjalan selaras. Memasang paket paling baru tidak selalu tepat apabila lembaga masih melakukan pengujian. Sebaliknya, versi yang terlalu lama dapat kehilangan perbaikan penting.
 
@@ -175,15 +203,15 @@ Untuk kendala aplikasi, sampaikan informasi yang membantu pemeriksaan: jenis per
 
 Masukan pengguna merupakan bagian penting dari peningkatan aplikasi. Saran yang jelas membantu tim memahami kebutuhan nyata. Jelaskan tujuan yang ingin dicapai, bukan hanya tampilan yang diinginkan. Dengan demikian, perbaikan dapat memberi manfaat bagi lebih banyak pengguna dan tetap mudah digunakan dalam jangka panjang.
 
-Untuk informasi umum mengenai solusi pendidikan, demonstrasi, dan konsultasi kebutuhan lembaga, pengguna dapat menghubungi Tim RIFIL Aplikasi melalui nomor 0859106502195. Pengguna eCAMPUS dapat melihat informasi melalui https://bit.ly/RIFIL-eCAMPUS, sedangkan pengguna eSCHOOL melalui https://bit.ly/RIFIL-eSCHOOL.
+Untuk informasi umum mengenai solusi pendidikan, demonstrasi, dan konsultasi kebutuhan lembaga, pengguna eCAMPUS, eSCHOOL, maupun ePESANTREN dapat menghubungi Tim RIFIL Aplikasi melalui nomor 0859106502195. Informasi eCAMPUS tersedia melalui https://bit.ly/RIFIL-eCAMPUS dan informasi eSCHOOL melalui https://bit.ly/RIFIL-eSCHOOL. Untuk ePESANTREN, silakan menghubungi Tim RIFIL Aplikasi agar memperoleh penjelasan yang sesuai dengan bentuk dan kebutuhan pondok.
 
 ## Komitmen kami
 
-Kami ingin eCAMPUS dan eSCHOOL menjadi sarana yang benar-benar membantu kegiatan pendidikan, bukan sekadar kumpulan menu. Nilai aplikasi terlihat ketika mahasiswa lebih mudah memahami perjalanan studinya, siswa lebih bertanggung jawab terhadap pembelajaran, orang tua lebih terhubung, dosen dan guru mempunyai lebih banyak waktu untuk mendampingi, tenaga administrasi dapat melayani secara tertib, serta pimpinan memperoleh informasi yang lebih jelas.
+Kami ingin eCAMPUS, eSCHOOL, dan ePESANTREN menjadi sarana yang benar-benar membantu kegiatan pendidikan dan pengasuhan, bukan sekadar kumpulan menu. Nilai aplikasi terlihat ketika mahasiswa lebih mudah memahami perjalanan studinya, siswa dan santri lebih bertanggung jawab terhadap pembelajaran, orang tua serta wali santri lebih terhubung, dosen, guru, ustaz, dan musyrif mempunyai lebih banyak waktu untuk mendampingi, tenaga pelayanan dapat bekerja secara tertib, serta pimpinan memperoleh informasi yang lebih jelas.
 
 Kami juga berkomitmen menyampaikan status aplikasi secara terbuka. Paket uji akan disebut sebagai paket uji. Fungsi yang belum selesai tidak akan dinyatakan selesai. Rilis baru akan disertai penjelasan mengenai tujuan, perubahan, hasil pemeriksaan, dan hal yang masih perlu diperhatikan. Keterbukaan seperti ini penting agar pengguna dapat mengambil keputusan dengan tenang.
 
-Transformasi layanan pendidikan bukan pekerjaan satu kali. Ia merupakan perjalanan yang melibatkan kebiasaan, tata kerja, pendampingan, dan perbaikan berkelanjutan. Aplikasi memberikan alat, sedangkan keberhasilan tetap bergantung pada kerja sama seluruh warga lembaga. Dengan tujuan yang jelas dan penggunaan yang bertanggung jawab, eCAMPUS dan eSCHOOL diharapkan menjadi bagian dari layanan pendidikan yang lebih mudah, tertib, transparan, dan berpusat pada kebutuhan manusia.
+Transformasi layanan pendidikan bukan pekerjaan satu kali. Ia merupakan perjalanan yang melibatkan kebiasaan, tata kerja, pendampingan, dan perbaikan berkelanjutan. Aplikasi memberikan alat, sedangkan keberhasilan tetap bergantung pada kerja sama seluruh warga lembaga. Dengan tujuan yang jelas dan penggunaan yang bertanggung jawab, eCAMPUS, eSCHOOL, dan ePESANTREN diharapkan menjadi bagian dari layanan pendidikan dan pengasuhan yang lebih mudah, tertib, transparan, dan berpusat pada kebutuhan manusia.
 
 ---
 
